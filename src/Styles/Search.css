@@ -1,0 +1,9 @@
+.form {
+  display: block;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.form > input {
+  margin-left: 10px;
+}

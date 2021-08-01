@@ -1,0 +1,58 @@
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
+
+button {
+  display: block;
+  width: 100px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 20px;
+  border-radius: 8%;
+  background-color: #ceebd5;
+  padding: 10px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.title {
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: 30px;
+}
+
+.listItem > a > img {
+  width: 200px;
+  height: 300px;
+  object-fit: fill;
+}
+
+.listItem {
+  width: calc(100% / 7 - 20px);
+  height: 400px;
+  text-align: center;
+}
+
+.listBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.NavLink {
+  display: inline-block;
+  text-align: center;
+  width: 90px;
+  padding: 10px 20px;
+  border-radius: 8%;
+}
+
+.NavLink-active {
+  background-color: #f5c3c1;
+}

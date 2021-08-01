@@ -1,0 +1,9 @@
+.navigation {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+
+  background-color: #c9eaff;
+}

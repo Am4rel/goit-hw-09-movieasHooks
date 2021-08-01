@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Styles/Search.css"],"names":[],"mappings":"AAAA,MACE,aAAc,CACd,iBAAkB,CAClB,eACF,CAEA,YACE,gBACF","file":"search-page.5030b60c.chunk.css","sourcesContent":[".form {\r\n  display: block;\r\n  text-align: center;\r\n  margin-top: 10px;\r\n}\r\n\r\n.form > input {\r\n  margin-left: 10px;\r\n}\r\n"]}
